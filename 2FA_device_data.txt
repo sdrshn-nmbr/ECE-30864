@@ -1,0 +1,10 @@
+What do we need to add devices to the network?
+
+1) A device that can connect to the network
+2) A network interface card (NIC) to connect the device to the network
+3) A network cable to connect the device to the network
+
+What values connected to the device will be used to automatically configure the device?
+1) IP address
+2) Subnet mask
+3) Default gateway
