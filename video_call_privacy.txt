@@ -1,0 +1,7 @@
+this is the file for video call privacy protocols
+
+steps:
+understand all protocols
+create a class for each protocol
+create a class for the video call
+Determine what privacies are needed for the video call
