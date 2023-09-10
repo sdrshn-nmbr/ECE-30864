@@ -1,0 +1,6 @@
+what is needed for e2e encryption?
+
+1) a way to generate a keypair (public and private key) for each user
+2) a way to share the public key with other users
+3) a way to encrypt a message with the public key
+4) a way to decrypt a message with the private key
