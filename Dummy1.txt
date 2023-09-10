@@ -1,1 +1,4 @@
 Integrate 2FA for existing users if need for additional security arises
+
+The steps for this would be as follows:
+    
