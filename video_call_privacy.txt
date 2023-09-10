@@ -5,3 +5,9 @@ understand all protocols
 create a class for each protocol
 create a class for the video call
 Determine what privacies are needed for the video call
+
+Questions:
+1. What is the purpose of the video call privacy protocols?
+2. What are the protocols?
+3. What are the privacies needed for the video call?
+4. What are the classes needed for the video call?
