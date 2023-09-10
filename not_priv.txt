@@ -1,0 +1,5 @@
+What are the requirements for notification privacies for 2FA?
+
+1) The user must be able to opt out of receiving notifications.
+2) The user must be able to opt out of receiving notifications for a specific device.
+3) They must be able to choose if it is them logging in from lock screen or in app
